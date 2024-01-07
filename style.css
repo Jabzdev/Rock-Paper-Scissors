@@ -1,0 +1,8 @@
+button {
+  padding: 10px;
+  font-weight: bold;
+  background: #6047ff;
+  box-shadow: 3px 3px 10px 3px #6b6969;
+  border-radius: 6px;
+  color: whitesmoke;
+}
